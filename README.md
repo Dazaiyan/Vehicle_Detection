@@ -77,7 +77,7 @@ project/
    ```
 
 4. **Asegúrate de tener el dataset en la carpeta `dataset/`.**
-   - Descarga el dataset desde [este enlace](https://drive.google.com/file/d/1TtR5P2KY3zo9Z33sl-ku-Hlg9ZPJhv26/view?usp=drive_link) y colócalo en la carpeta `dataset/`.
+   - Descarga el dataset desde [este enlace](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar) y colócalo en la carpeta `dataset/`.
 
 5. **Ejecutar el pipeline completo:**
 6. 
@@ -101,7 +101,7 @@ project/
 
 ## Dataset
 
-El dataset utilizado para entrenar el modelo no está incluido en el repositorio debido a restricciones de tamaño. Puedes descargarlo desde [este enlace](https://drive.google.com/file/d/1TtR5P2KY3zo9Z33sl-ku-Hlg9ZPJhv26/view?usp=drive_link) y colocarlo en la carpeta `dataset/`.
+El dataset utilizado para entrenar el modelo no está incluido en el repositorio debido a restricciones de tamaño. Puedes descargarlo desde [este enlace](http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar) y colocarlo en la carpeta `dataset/`.
 
 ---
 
