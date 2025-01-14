@@ -48,7 +48,6 @@ project/
 │   └── data_utils.py   # Funciones para manejar los datasets y preparar los datos
 ├── video/              # Carpeta para los videos de entrada
 ├── .gitignore          # Archivos ignorados por Git
-├── main.py             # Script principal para ejecutar todo el pipeline
 └── requirements.txt    # Archivo para las dependencias
 ```
 
