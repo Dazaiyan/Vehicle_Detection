@@ -81,14 +81,20 @@ project/
    - Descarga el dataset desde [este enlace](https://drive.google.com/file/d/1TtR5P2KY3zo9Z33sl-ku-Hlg9ZPJhv26/view?usp=drive_link) y colócalo en la carpeta `dataset/`.
 
 5. **Ejecutar el pipeline completo:**
+6. 
+   Entrenar al modelo con el dataset
+
+    ```bash
+   python scripts/train.py
+   ```
 
    Ejecuta el script principal para procesar el video y generar las métricas de desempeño:
 
    ```bash
-   python main.py
+   python scripts/predict.py
    ```
 
-6. **Ver los resultados:**
+7. **Ver los resultados:**
    - El video procesado se guardará en la carpeta `outputs/`.
    - Los gráficos de métricas se mostrarán en una ventana emergente.
 
